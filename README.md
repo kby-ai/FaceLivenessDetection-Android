@@ -19,7 +19,7 @@ This project uses kby-ai's liveness detection SDK. The SDK requires a license pe
 
 - To request a license, please contact us:
 ```
-Email: kbyai200914@gmail.com
+Email: kby-ai@outlook.com
 
 Skype: live:.cid.66e2522354b1049b
 
