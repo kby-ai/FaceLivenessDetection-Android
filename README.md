@@ -5,6 +5,11 @@ This demo showcases a 3D passive liveness detection technique for detecting spoo
 
 In real-time, a single image captured from the Android camera computes a liveness score.
 
+
+
+https://user-images.githubusercontent.com/125717930/224036281-347d49a9-0f9e-4aa9-8e16-c6b96356a5ce.mp4
+
+
 ## Try the APK
 
 You can test the demo APK by following the link below:
