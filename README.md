@@ -26,8 +26,6 @@ This project uses kby-ai's liveness detection SDK. The SDK requires a license pe
 ```
 Email: kby-ai@outlook.com
 
-Skype: live:.cid.66e2522354b1049b
-
 Telegram: kbyai
 
 WahtsApp: +19092802609
