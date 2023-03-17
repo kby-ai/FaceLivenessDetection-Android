@@ -26,7 +26,7 @@ This project uses kby-ai's liveness detection SDK. The SDK requires a license pe
 ```
 Email: kby-ai@outlook.com
 
-Telegram: kbyai
+Telegram: @kbyai
 
 WhatsApp: +19092802609
 ```
