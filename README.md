@@ -1,9 +1,19 @@
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/125717930/225975240-24b9a8ad-8cc6-4d5f-9a91-1435951b0bd7.png" width="120" alt="Nest Logo" />
+</p>
+
 # FaceLivenessDetection-Android
 
 ## Introduction
 This demo showcases a 3D passive liveness detection technique for detecting spoofed faces. 
 
 In real-time, a single image captured from the Android camera computes a liveness score.
+
+
+
+https://user-images.githubusercontent.com/125717930/224036281-347d49a9-0f9e-4aa9-8e16-c6b96356a5ce.mp4
+
 
 ## Try the APK
 
@@ -15,17 +25,15 @@ https://drive.google.com/file/d/1U7-wHmRYb8VV32kOb6JdG_sdZA_3bSLe/view?usp=shari
 
 This project uses kby-ai's liveness detection SDK. The SDK requires a license per application ID.
 
-- The code below shows how to use the license: https://github.com/kby-ai/FaceLivenessDetection-Android/blob/e5ca47f69de1159db81ca68908e039c45c022f8b/app/src/main/java/com/kbyai/facelivedemo/CameraActivity.java#L69-L77
+- The code below shows how to use the license: https://github.com/kby-ai/FaceLivenessDetection-Android/blob/f81f001b0a2f65330d2adaabc9b001003af9a112/app/src/main/java/com/kbyai/facelivedemo/CameraActivity.java#L69-L77
 
 - To request a license, please contact us:
 ```
-Email: kbyai200914@gmail.com
+Email: contact@kby-ai.com
 
-Skype: live:.cid.66e2522354b1049b
+Telegram: @kbyai
 
-Telegram: kbyai
-
-WahtsApp: +19092802609
+WhatsApp: +19092802609
 ```
 
 ## About SDK
