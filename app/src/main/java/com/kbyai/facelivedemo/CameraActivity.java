@@ -68,11 +68,11 @@ public class CameraActivity extends AppCompatActivity {
         initView = findViewById(R.id.initView);
         cameraExecutorService = Executors.newFixedThreadPool(1);
 
-        int ret = FaceSDK.setActivation("GcVbBmdTI24WPXz3tBsr87dHU/KzmFuMYWm4SrLoFrFECoUouwdeSkWhAHi+k/AAYQW22jvctX+j\n" +
-                "oDg+I1VLKJQgnJS2d80bwCKceYFXOc9A7jBi0/BEKx4PeSGz/PEpoPm/fFT9GrXXnLI4jZj8tMRX\n" +
-                "cYS4MO7ECQkQmFtqU4wx63mV2MP97WCurOGBRUuVm4dK+mObTVA/rBNrgS75ArcjwwIKexMU5YCY\n" +
-                "qjLsmADlcnEu5vuYCagDeHyCkUIqvl0/KLicM68BEG2ItUDflhOZJkjOof3gWPSmzJveXuoyPCR5\n" +
-                "aSBeesUcwQv9xdKciBacMX/pDDMsbqv614gQ5A==");
+        int ret = FaceSDK.setActivation("UiVc2FOxdNGVgdX6PsntpvKZ4QXccD+wm/IndqeKOuDUoBDLYUF2LAgMim8zcRESesQWMfnzk3ad\n" +
+                "IAhn/FYurPKk9zjMULHda+W2kLNxMB197FkWTeAbq4hHrN82s/jPWfXv+ira7byPY6tJUJikwnr+\n" +
+                "OjCk+gAi2XFNaFze/yiVtbAEwRkD3cAYCW6CQdL0ZqXEq10XGr+2SUtY55FQGHdVGcgRNKr837+T\n" +
+                "nptdLQ1tgbu2Y8zUKA23gG/uwEMUi/TKYu2eAG7ITCjKi5qQjrPvmw8cmriiQhQkDuAEStwGf0Sj\n" +
+                "91NEjRbz7Tipmh1RZbG4YLxl83QfINhnmy6ioA==");
 
         if(ret == FaceSDK.SDK_SUCCESS) {
             ret = FaceSDK.init(getAssets());
