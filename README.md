@@ -17,8 +17,6 @@ https://user-images.githubusercontent.com/125717930/224036281-347d49a9-0f9e-4aa9
 
 ## Try the APK
 
-You can test the demo APK by following the link below:
-
 ### Google Play Store
 
 <a href="https://play.google.com/store/apps/details?id=com.ttv.livedemo" target="_blank">
