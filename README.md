@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/125717930/224036281-347d49a9-0f9e-4aa9
 
 ### Google Play Store
 
-<a href="https://play.google.com/store/apps/details?id=com.ttv.livedemo" target="_blank">
+<a href="https://play.google.com/store/apps/details?id=com.kbyai.facelivedemo" target="_blank">
   <img alt="Get it on Google Play" src="https://user-images.githubusercontent.com/125717930/230804673-17c99e7d-6a21-4a64-8b9e-a465142da148.png"/>
 </a>
 
