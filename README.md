@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/125717930/224036281-347d49a9-0f9e-4aa9
 
 ## Try the APK
 
-### Google Play Store
+### Google Play
 
 <a href="https://play.google.com/store/apps/details?id=com.kbyai.facelivedemo" target="_blank">
   <img alt="Get it on Google Play" src="https://user-images.githubusercontent.com/125717930/230804673-17c99e7d-6a21-4a64-8b9e-a465142da148.png"/>
@@ -106,3 +106,7 @@ To determine the appropriate conversion mode, the following method can be used:
  88          88      88  88
  88          88  888888  888888
 ```
+
+# References
+
+- [Face Recognition - Android](https://github.com/kby-ai/FaceRecognition-Android)
