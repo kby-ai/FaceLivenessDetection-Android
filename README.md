@@ -113,3 +113,4 @@ To determine the appropriate conversion mode, the following method can be used:
 
 - [Face Liveness Detection - iOS](https://github.com/kby-ai/FaceLivenessDetection-iOS)
 - [Face Recognition - Android](https://github.com/kby-ai/FaceRecognition-Android)
+- [Face Recognition - iOS](https://github.com/kby-ai/FaceRecognition-iOS)
