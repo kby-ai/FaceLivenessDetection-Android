@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="left">
   <img src="https://user-images.githubusercontent.com/125717930/225975240-24b9a8ad-8cc6-4d5f-9a91-1435951b0bd7.png" width="120" alt="Nest Logo" />
 </p>
 
@@ -10,7 +10,19 @@ This demo showcases a 3D passive liveness detection technique for detecting spoo
 
 In real-time, a single image captured from the Android camera computes a liveness score.
 
+> The demo is integrated with KBY-AI's Basic Face SDK.
 
+  | Basic      | Standard | Premimum |
+  |------------------|------------------|------------------|
+  | Face Detection        | Face Detection    | Face Detection |
+  | Face Liveness Detection        | Face Liveness Detection    | Face Liveness Detection |
+  | Pose Estimation        | Pose Estimation    | Pose Estimation |
+  |         | Face Recognition    | Face Recognition |
+  |         |         | 68 points Face Landmark Detection |
+  |         |         | Face Quality Calculation |
+  |         |         | Face Occlusion Detection |
+  |         |         | Eye Closure Detection |
+  |         |         | Age, Gender Estimation |
 
 https://user-images.githubusercontent.com/125717930/224036281-347d49a9-0f9e-4aa9-8e16-c6b96356a5ce.mp4
 
@@ -114,3 +126,4 @@ To determine the appropriate conversion mode, the following method can be used:
 - [Face Liveness Detection - iOS](https://github.com/kby-ai/FaceLivenessDetection-iOS)
 - [Face Recognition - Android](https://github.com/kby-ai/FaceRecognition-Android)
 - [Face Recognition - iOS](https://github.com/kby-ai/FaceRecognition-iOS)
+- [Face Attribute - Android](https://github.com/kby-ai/FaceAttribute-Android)
