@@ -22,8 +22,12 @@ The demo project showcases real-time Face Liveness Detection technology.
   |         |         | Eye Closure Detection |
   |         |         | Age, Gender Estimation |
 
-https://user-images.githubusercontent.com/125717930/224036281-347d49a9-0f9e-4aa9-8e16-c6b96356a5ce.mp4
+> - [Face Liveness Detection - iOS(Basic SDK)](https://github.com/kby-ai/FaceLivenessDetection-iOS)
+> - [Face Recognition - Android(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Android)
+> - [Face Recognition - iOS(Standard SDK)](https://github.com/kby-ai/FaceRecognition-iOS)
+> - [Face Attribute - Android(Premimum SDK)](https://github.com/kby-ai/FaceAttribute-Android)
 
+https://user-images.githubusercontent.com/125717930/224036281-347d49a9-0f9e-4aa9-8e16-c6b96356a5ce.mp4
 
 ## Try the APK
 
@@ -118,10 +122,3 @@ To determine the appropriate conversion mode, the following method can be used:
  88          88      88  88
  88          88  888888  888888
 ```
-
-# References
-
-- [Face Liveness Detection - iOS](https://github.com/kby-ai/FaceLivenessDetection-iOS)
-- [Face Recognition - Android](https://github.com/kby-ai/FaceRecognition-Android)
-- [Face Recognition - iOS](https://github.com/kby-ai/FaceRecognition-iOS)
-- [Face Attribute - Android](https://github.com/kby-ai/FaceAttribute-Android)
