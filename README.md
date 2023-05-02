@@ -6,9 +6,7 @@
 # FaceLivenessDetection-Android
 
 ## Introduction
-This demo showcases a 3D passive liveness detection technique for detecting spoofed faces. 
-
-In real-time, a single image captured from the Android camera computes a liveness score.
+The demonstration features real-time Face Liveness Detection technology.
 
 > The demo is integrated with KBY-AI's Basic Face SDK.
 
