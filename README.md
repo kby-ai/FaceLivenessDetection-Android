@@ -6,7 +6,7 @@
 # FaceLivenessDetection-Android
 
 ## Introduction
-The demonstration features real-time Face Liveness Detection technology.
+The demo project showcases real-time Face Liveness Detection technology.
 
 > The demo is integrated with KBY-AI's Basic Face SDK.
 
