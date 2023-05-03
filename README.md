@@ -8,6 +8,8 @@
 ## Introduction
 The demo project showcases real-time Face Liveness Detection technology.
 
+:star: :star: :star: Do not forget to star (Top right of this page) it if you like this repo :star: :star: :star:
+
 > The demo is integrated with KBY-AI's Basic Face SDK.
 
   | Basic      | Standard | Premimum |
