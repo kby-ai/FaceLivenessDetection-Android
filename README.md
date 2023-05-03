@@ -12,7 +12,7 @@ The demo project showcases real-time Face Liveness Detection technology.
 
 > The demo is integrated with KBY-AI's Basic Face SDK.
 
-  | Basic      | Standard | Premimum |
+  | Basic      | Standard | Premium |
   |------------------|------------------|------------------|
   | Face Detection        | Face Detection    | Face Detection |
   | Face Liveness Detection        | Face Liveness Detection    | Face Liveness Detection |
@@ -27,7 +27,7 @@ The demo project showcases real-time Face Liveness Detection technology.
 > - [Face Liveness Detection - iOS(Basic SDK)](https://github.com/kby-ai/FaceLivenessDetection-iOS)
 > - [Face Recognition - Android(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Android)
 > - [Face Recognition - iOS(Standard SDK)](https://github.com/kby-ai/FaceRecognition-iOS)
-> - [Face Attribute - Android(Premimum SDK)](https://github.com/kby-ai/FaceAttribute-Android)
+> - [Face Attribute - Android(Premium SDK)](https://github.com/kby-ai/FaceAttribute-Android)
 
 https://user-images.githubusercontent.com/125717930/224036281-347d49a9-0f9e-4aa9-8e16-c6b96356a5ce.mp4
 
