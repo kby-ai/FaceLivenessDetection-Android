@@ -28,7 +28,8 @@ The demo project showcases real-time Face Liveness Detection technology.
 > - [Face Recognition - Android(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Android)
 > - [Face Recognition - iOS(Standard SDK)](https://github.com/kby-ai/FaceRecognition-iOS)
 > - [Face Attribute - Android(Premium SDK)](https://github.com/kby-ai/FaceAttribute-Android)
-
+> - [Face Attribute - iOS(Premium SDK)](https://github.com/kby-ai/FaceAttribute-iOS)
+> 
 https://user-images.githubusercontent.com/125717930/224036281-347d49a9-0f9e-4aa9-8e16-c6b96356a5ce.mp4
 
 ## Try the APK
