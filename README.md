@@ -30,6 +30,7 @@ The demo project showcases real-time Face Liveness Detection technology.
   |         |         | Eye Closure Detection |
   |         |         | Age, Gender Estimation |
 
+> - [Face Liveness Detection - Android(Basic SDK)](https://github.com/kby-ai/FaceLivenessDetection-Android)
 > - [Face Liveness Detection - iOS(Basic SDK)](https://github.com/kby-ai/FaceLivenessDetection-iOS)
 > - [Face Recognition - Android(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Android)
 > - [Face Recognition - iOS(Standard SDK)](https://github.com/kby-ai/FaceRecognition-iOS)
