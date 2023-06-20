@@ -1,6 +1,7 @@
-
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/125717930/225975240-24b9a8ad-8cc6-4d5f-9a91-1435951b0bd7.png" width="120" alt="Nest Logo" />
+<p align="center">
+  <a href="https://play.google.com/store/apps/dev?id=7086930298279250852" target="_blank">
+    <img alt="" src="https://github-production-user-asset-6210df.s3.amazonaws.com/125717930/246971879-8ce757c3-90dc-438d-807f-3f3d29ddc064.png" width=500/>
+  </a>  
 </p>
 
 👏  We have published the Face Liveness Detection, Face Recognition SDK and ID Card Recognition SDK for the server.
@@ -17,7 +18,7 @@
 
 # FaceLivenessDetection-Android
 
-## Introduction
+## Overview
 The demo project showcases real-time Face Liveness Detection technology.
 
 > The demo is integrated with KBY-AI's Basic Face Mobile SDK.
