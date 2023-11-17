@@ -51,7 +51,6 @@ The demo project showcases real-time Face Liveness Detection technology.
 > 
 > [Face Attribute - iOS(Premium SDK)](https://github.com/kby-ai/FaceAttribute-iOS)
 > 
-https://user-images.githubusercontent.com/125717930/224036281-347d49a9-0f9e-4aa9-8e16-c6b96356a5ce.mp4
 
 ## Try the APK
 
