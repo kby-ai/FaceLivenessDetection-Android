@@ -58,13 +58,9 @@ This project uses kby-ai's liveness detection SDK. The SDK requires a license pe
 - To request a license, please contact us:
 ```
 Email: contact@kby-ai.com
-
 Telegram: @kbyai
-
 WhatsApp: +19092802609
-
 Skype: live:.cid.66e2522354b1049b
-
 Facebook: https://www.facebook.com/KBYAI
 ```
 
