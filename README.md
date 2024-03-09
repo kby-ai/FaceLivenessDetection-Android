@@ -51,18 +51,16 @@ https://drive.google.com/file/d/1U7-wHmRYb8VV32kOb6JdG_sdZA_3bSLe/view?usp=shari
 
 ## SDK License
 
-This project uses kby-ai's liveness detection SDK. The SDK requires a license per application ID.
+This project uses KBY-AI's liveness detection SDK. The SDK requires a license per application ID.
 
 - The code below shows how to use the license: https://github.com/kby-ai/FaceLivenessDetection-Android/blob/f81f001b0a2f65330d2adaabc9b001003af9a112/app/src/main/java/com/kbyai/facelivedemo/CameraActivity.java#L69-L77
 
-- To request a license, please contact us:
-```
-Email: contact@kby-ai.com
-Telegram: @kbyai
-WhatsApp: +19092802609
-Skype: live:.cid.66e2522354b1049b
-Facebook: https://www.facebook.com/KBYAI
-```
+- To request a license, please contact us:</br>
+🧙`Email:` contact@kby-ai.com</br>
+🧙`Telegram:` @kbyai</br>
+🧙`WhatsApp:` +19092802609</br>
+🧙`Skype:` live:.cid.66e2522354b1049b</br>
+🧙`Facebook:` https://www.facebook.com/KBYAI</br>
 
 ## About SDK
 
