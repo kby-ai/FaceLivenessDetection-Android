@@ -42,7 +42,7 @@ This repository showcases real-time Face Liveness Detection technology on Androi
   | 7        | [Face Attribute - Android](https://github.com/kby-ai/FaceAttribute-Android)        | Premium SDK |
   | 8        | [Face Attribute - iOS](https://github.com/kby-ai/FaceAttribute-iOS)        | Premium SDK |
 
-> To get Face SDK(server), please visit products [here](https://github.com/kby-ai/Product):<br/>
+> To get Face SDK(server), please visit products [here](https://github.com/kby-ai/Product).<br/>
 ## Try the APK
 
 ### Google Play
