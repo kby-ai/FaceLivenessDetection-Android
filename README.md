@@ -51,9 +51,10 @@ This repository showcases real-time Face Liveness Detection technology on Androi
   <img alt="" src="https://user-images.githubusercontent.com/125717930/230804673-17c99e7d-6a21-4a64-8b9e-a465142da148.png" height=80/>
 </a>
 
-### Google Drive
+## Performance Video
 
-https://drive.google.com/file/d/1U7-wHmRYb8VV32kOb6JdG_sdZA_3bSLe/view?usp=sharing
+You can visit our YouTube video [here](https://www.youtube.com/watch?v=F7c5ZqtbIsA) to see how well our demo app works.</br>
+[![Face Recognition Android](https://img.youtube.com/vi/F7c5ZqtbIsA/0.jpg)](https://www.youtube.com/watch?v=F7c5ZqtbIsA)
 
 ## SDK License
 
