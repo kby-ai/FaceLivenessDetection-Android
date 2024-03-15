@@ -53,7 +53,7 @@ This repository showcases real-time Face Liveness Detection technology on Androi
 
 ## Performance Video
 
-You can visit our YouTube video [here](https://www.youtube.com/watch?v=F7c5ZqtbIsA) to see how well our demo app works.</br>
+You can visit our YouTube video [here](https://www.youtube.com/watch?v=F7c5ZqtbIsA) to see how well our demo app works.</br></br>
 [![Face Recognition Android](https://img.youtube.com/vi/F7c5ZqtbIsA/0.jpg)](https://www.youtube.com/watch?v=F7c5ZqtbIsA)
 
 ## SDK License
