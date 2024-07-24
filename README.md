@@ -75,12 +75,12 @@ This project uses KBY-AI's liveness detection SDK. The SDK requires a license pe
 1. Copy the SDK (libfacesdk folder) to the root folder of your project.
 
 2. Add SDK to the project in settings.gradle
-```
+```bash
 include ':libfacesdk'
 ```
 
 3. Add dependency to your build.gradle
-```
+```bash
 implementation project(path: ':libfacesdk')
 ```
 
@@ -89,7 +89,7 @@ implementation project(path: ':libfacesdk')
 - Step One
 
 To begin, you need to activate the SDK using the license that you have received.
-```
+```kotlin
 FaceSDK.setActivation("...")
 ```
 
@@ -98,7 +98,7 @@ If activation is successful, the return value will be SDK_SUCCESS. Otherwise, an
 - Step Two
 
 After activation, call the SDK's initialization function.
-```
+```kotlin
 FaceSDK.init(getAssets());
 ```
 If initialization is successful, the return value will be SDK_SUCCESS. Otherwise, an error value will be returned.
@@ -106,7 +106,7 @@ If initialization is successful, the return value will be SDK_SUCCESS. Otherwise
 ### Face Detection and Liveness Detection
 
 The FaceSDK offers a single function for detecting face and liveness detection, which can be used as follows:
-```
+```kotlin
 FaceSDK.faceDetection(bitmap)
 ```
 
@@ -114,7 +114,7 @@ This function takes a single parameter, which is a bitmap object. The return val
 
 ### Yuv to Bitmap
 The SDK provides a function called yuv2Bitmap, which converts a yuv frame to a bitmap. Since camera frames are typically in yuv format, this function is necessary to convert them to bitmaps. The usage of this function is as follows:
-```
+```kotlin
 Bitmap bitmap = FaceSDK.yuv2Bitmap(nv21, image.getWidth(), image.getHeight(), 7);
 ```
 The first parameter is an nv21 byte array containing the yuv data. 
