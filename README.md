@@ -12,7 +12,7 @@
 # FaceLivenessDetection-Android
 
 ## Overview
-This repository showcases real-time Face Liveness Detection technology on Android device.
+This repository showcases real-time `Face Liveness Detection` technology on `Android` device.
 
 > In this repository, we integrated KBY-AI's face liveness(face anti-spoofing) solution into Android platform.
 
@@ -59,7 +59,7 @@ You can visit our YouTube video [here](https://www.youtube.com/watch?v=F7c5ZqtbI
 
 ## SDK License
 
-This project uses KBY-AI's liveness detection SDK. The SDK requires a license per application ID.
+This project uses `KBY-AI`'s liveness detection SDK. The SDK requires a license per `application ID`.
 
 - The code below shows how to use the license: https://github.com/kby-ai/FaceLivenessDetection-Android/blob/f81f001b0a2f65330d2adaabc9b001003af9a112/app/src/main/java/com/kbyai/facelivedemo/CameraActivity.java#L69-L77
 
@@ -73,15 +73,15 @@ This project uses KBY-AI's liveness detection SDK. The SDK requires a license pe
 ## About SDK
 
 ### Set up
-1. Copy the SDK (libfacesdk folder) to the root folder of your project.
+1. Copy the SDK (`libfacesdk` folder) to the `root` folder in your project.
 
-2. Add SDK to the project in settings.gradle
-```bash
+2. Add SDK to the project in `settings.gradle`.
+```kotlin
 include ':libfacesdk'
 ```
 
-3. Add dependency to your build.gradle
-```bash
+3. Add dependency to your `build.gradle`.
+```kotlin
 implementation project(path: ':libfacesdk')
 ```
 
@@ -94,7 +94,7 @@ To begin, you need to activate the SDK using the license that you have received.
 FaceSDK.setActivation("...")
 ```
 
-If activation is successful, the return value will be SDK_SUCCESS. Otherwise, an error value will be returned.
+If activation is successful, the return value will be `SDK_SUCCESS`. Otherwise, an error value will be returned.
 
 - Step Two
 
@@ -102,29 +102,29 @@ After activation, call the SDK's initialization function.
 ```kotlin
 FaceSDK.init(getAssets());
 ```
-If initialization is successful, the return value will be SDK_SUCCESS. Otherwise, an error value will be returned.
+If initialization is successful, the return value will be `SDK_SUCCESS`. Otherwise, an error value will be returned.
 
 ### Face Detection and Liveness Detection
 
-The FaceSDK offers a single function for detecting face and liveness detection, which can be used as follows:
+The `FaceSDK` offers a single function for detecting face and liveness detection, which can be used as follows:
 ```kotlin
 FaceSDK.faceDetection(bitmap)
 ```
 
-This function takes a single parameter, which is a bitmap object. The return value of the function is a list of FaceBox objects. Each FaceBox object contains the detected face rectangle, liveness score, and facial angles such as yaw, roll, and pitch.
+This function takes a single parameter, which is a `bitmap` object. The return value of the function is a list of `FaceBox` objects. Each FaceBox object contains the detected face rectangle, liveness score, and facial angles such as `yaw`, `roll`, and `pitch`.
 
 ### Yuv to Bitmap
-The SDK provides a function called yuv2Bitmap, which converts a yuv frame to a bitmap. Since camera frames are typically in yuv format, this function is necessary to convert them to bitmaps. The usage of this function is as follows:
+The SDK provides a function called `yuv2Bitmap`, which converts a `yuv` frame to a `bitmap`. Since camera frames are typically in `yuv` format, this function is necessary to convert them to `bitmap`. The usage of this function is as follows:
 ```kotlin
 Bitmap bitmap = FaceSDK.yuv2Bitmap(nv21, image.getWidth(), image.getHeight(), 7);
 ```
-The first parameter is an nv21 byte array containing the yuv data. 
+The first parameter is an `nv21` byte array containing the `yuv` data. 
 
-The second parameter is the width of the yuv frame, and the third parameter is its height. 
+The second parameter is the width of the `yuv` frame, and the third parameter is its height. 
 
-The fourth parameter is the conversion mode, which is determined by the camera orientation.
+The fourth parameter is the `conversion mode`, which is determined by the camera orientation.
 
-To determine the appropriate conversion mode, the following method can be used:
+To determine the appropriate `conversion mode`, the following method can be used:
 ```kotlin
  1        2       3      4         5            6           7          8
 
