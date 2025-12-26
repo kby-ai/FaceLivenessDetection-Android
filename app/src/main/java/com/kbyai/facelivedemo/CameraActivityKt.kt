@@ -39,12 +39,11 @@ class CameraActivityKt : AppCompatActivity() {
         faceView = findViewById(R.id.faceView)
         initView = findViewById(R.id.initView)
 
-        var ret = FaceSDK.setActivation(
-            "vFctIxR3uOl4qcSokcOtKxwqg9UJL+BvXWZGSzdapOiPfR4LKnmJTMu9QlBuREvP3btz3lFRRG64\n" +
-                    "wq6kZHTeJagmDUrNwoStgQddnJ8ps9uksGTv/xQskZtzIAYGX7CpIy9OuD/34zFljbh8eIqpkS4p\n" +
-                    "g/6dr3dFoYl7qA6KfdzEFVp9iVKSOJh8F0eXk/0HWBaijMKLzaPbYRT6J969zqN0F4uj1/3tlRMu\n" +
-                    "iwOC5h/xYjZQ7EruKSg/QiI6WXVJ2QeuvotNulUSX+NFK7Avyco6qk3nHpxU4G5Vu1katfjwYrwS\n" +
-                    "wbus4Nx2wn6ySkgc//HhIi7zZ2gVUdMwPSV9LQ=="
+         var ret = FaceSDK.setActivation(
+            "amDMEN2mo3JxYzYk5QWixuN5J45EpOYzPbUIzt+sMpw1zqbXPEE672e/r6RZFMsCsaqHb+vTi0UxuFmc" + 
+                 "T/E78V2jjH0XAxRbI7GcIq3kg4rqz9YRZ5or9cwioSyT999iK02j1zCn4FEGqt6ufEGSqTsKEqGYMif2vMsqG" + 
+                 "yN0GBNNk/yARzchJbElKkCRzkYlWRhThhK8BLPeZCQYPGif6ssQIM55/4EOTzwN4BHzyajYuzAOBBSedveC2I+" + 
+                 "HyvSE9q+bpLmn+oMf0ZoUaMCmM6AUB2VXE1/uE0+IrhgWaXeCGqDJ6AOihm0QMqHdnf0Ks7qFcpg/zAYppeJlyd6tMw=="
         )
 
         if (ret == FaceSDK.SDK_SUCCESS) {
