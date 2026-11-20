@@ -5,14 +5,14 @@ plugins {
 
 android {
     namespace 'com.kbyai.facelivedemo'
-    compileSdk 35
+    compileSdk 36
 
     defaultConfig {
         applicationId "com.kbyai.facelivedemo"
         minSdk 24
-        targetSdk 35
-        versionCode 9
-        versionName "1.8"
+        targetSdk 36
+        versionCode 12
+        versionName "1.9.2"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
